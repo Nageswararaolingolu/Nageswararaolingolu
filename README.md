@@ -119,7 +119,7 @@ Passionate entry-level Data Analytics and Generative AI engineer and an AI full-
 I'm actively seeking entry-level roles in Data Analytics, Generative AI, and AI full-stack development, and open to open-source collaboration.
 
 📧 **Email:** [siddulingolu@gmail.com](mailto:siddulingolu@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/nageswararaolingolu](https://linkedin.com)  
+🔗 **LinkedIn:** [www.linkedin.com/in/siddu-lingolu](https://www.linkedin.com/in/siddu-lingolu)  
 🐙 **GitHub:** [github.com/Nageswararaolingolu](https://github.com/Nageswararaolingolu)
 
 ---
