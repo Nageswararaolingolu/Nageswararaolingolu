@@ -6,7 +6,6 @@
 
 **Building data-driven, production-ready analytics and generative AI solutions with clean code and agile practices**
 
-📍 Hyderabad, Telangana, India  
 🎓 B.Tech in AI & Data Science | BVC Engineering College (2022–2026)  
 
 [![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
@@ -23,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-Passionate entry-level Data Analytics and Generative AI engineer and an AI full-stack learner with a strong foundation in data analysis, visualization, and applied AI. Experienced in designing end-to-end data pipelines and deploying AI models in production environments. Committed to writing clean, maintainable code and following best practices in software engineering and agile methodologies.
+Passionate entry-level Data Analytics and Generative AI engineer and an AI full-stack learner with a strong foundation in data analysis, visualization, and applied AI. Experienced in designing end-to-[...]
 
 ---
 
