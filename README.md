@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-Passionate entry-level Data Analytics and Generative AI engineer and an AI full-stack learner with a strong foundation in data analysis, visualization, and applied AI. Experienced in designing end-to-[...]
+Passionate entry-level Data Analytics and Generative AI engineer and an AI full-stack learner with a strong foundation in data analysis, visualization, and applied AI. Experienced in designing end-to-end solutions.
 
 ---
 
@@ -75,19 +75,7 @@ Passionate entry-level Data Analytics and Generative AI engineer and an AI full-
 
 [Try Application →](http://localhost:5173/) | [View Repository →](https://github.com/Nageswararaolingolu/hostel-management-system)
 
----
-
-### 2. 📊 PDA-90-project
-**Data-driven analytics and generative AI project with full-stack implementation**
-
-- **Tech Stack:** JavaScript, Modern Web Technologies
-- **Key Features:**
-  - Production-ready analytics pipeline
-  - Data visualization and reporting
-  - Full-stack implementation with deployment
-- **Live Demo:** [Visit Application →](https://pda-90-project-8vbw.vercel.app)
-
-[View Repository →](https://github.com/Nageswararaolingolu/PDA-90-project)
+**Related Project:** [PDA-90-Repository →](https://github.com/Nageswararaolingolu/pda-90-repository)
 
 ---
 
