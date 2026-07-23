@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-Passionate entry-level Data Analytics and Generative AI engineer and an AI full-stack learner with a strong foundation in data analysis, visualization, and applied AI. Experienced in designing end-to-end data workflows, building dashboards, and developing data-driven insights to inform decisions.
+Passionate entry-level Data Analytics and Generative AI engineer and an AI full-stack learner with a strong foundation in data analysis, visualization, and applied AI. Experienced in designing end-to-[...]
 
 ---
 
@@ -61,7 +61,7 @@ Passionate entry-level Data Analytics and Generative AI engineer and an AI full-
 
 ## 🎯 Featured Projects
 
-### 1. 🏢 Hostel/PG Management System
+### 1. 🏢 [Hostel/PG Management System](https://github.com/Nageswararaolingolu/hostel-management-system)
 **A full-stack CRUD application for managing hostel operations**
 
 - **Tech Stack:** Python, MySQL, OOP, SDLC
@@ -73,7 +73,9 @@ Passionate entry-level Data Analytics and Generative AI engineer and an AI full-
 - **Impact:** Reduced manual record management by **40%**, streamlined hostel operations workflow
 - **Code Quality:** Followed SDLC phases, unit tested core modules, documented API thoroughly
 
-### 2. 🤖 AI-Based Student Performance Prediction
+[View Repository →](https://github.com/Nageswararaolingolu/hostel-management-system)
+
+### 2. 🤖 [AI-Based Student Performance Prediction](https://github.com/Nageswararaolingolu/student-performance-prediction)
 **Machine learning model to predict academic performance with data-driven insights**
 
 - **Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib, Jupyter Notebook
@@ -84,6 +86,8 @@ Passionate entry-level Data Analytics and Generative AI engineer and an AI full-
   - **Evaluation:** Achieved **92% accuracy** on test dataset with precision/recall optimization
 - **Impact:** Identified at-risk students with **20% improvement** in prediction accuracy over baseline models
 - **Deliverables:** Interactive Jupyter notebooks, visualizations, and actionable recommendations
+
+[View Repository →](https://github.com/Nageswararaolingolu/student-performance-prediction)
 
 ---
 
@@ -126,7 +130,7 @@ I'm actively seeking entry-level roles in Data Analytics, Generative AI, and AI 
 
 <div align="center">
 
-### 💡 *"Clean code is readable code. Readable code is maintainable code. Maintainable code is scalable code."
+### 💡 *"Clean code is readable code. Readable code is maintainable code. Maintainable code is scalable code."*
 
 ⭐ If you find my work interesting, feel free to star my repositories and get in touch!
 
