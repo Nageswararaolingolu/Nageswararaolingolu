@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-Passionate entry-level Data Analytics and Generative AI engineer and an AI full-stack learner with a strong foundation in data analysis, visualization, and applied AI. Experienced in designing end-to-[...]
+Passionate entry-level Data Analytics and Generative AI engineer and an AI full-stack learner with a strong foundation in data analysis, visualization, and applied AI. Experienced in designing end-to-end solutions with clean architecture and best practices.
 
 ---
 
@@ -61,7 +61,7 @@ Passionate entry-level Data Analytics and Generative AI engineer and an AI full-
 
 ## 🎯 Featured Projects
 
-### 1. 🏢 [Hostel/PG Management System](https://github.com/Nageswararaolingolu/hostel-management-system)
+### 1. 🏢 Hostel/PG Management System
 **A full-stack CRUD application for managing hostel operations**
 
 - **Tech Stack:** Python, MySQL, OOP, SDLC
@@ -73,21 +73,7 @@ Passionate entry-level Data Analytics and Generative AI engineer and an AI full-
 - **Impact:** Reduced manual record management by **40%**, streamlined hostel operations workflow
 - **Code Quality:** Followed SDLC phases, unit tested core modules, documented API thoroughly
 
-[View Repository →](https://github.com/Nageswararaolingolu/hostel-management-system)
-
-### 2. 🤖 [AI-Based Student Performance Prediction](https://github.com/Nageswararaolingolu/student-performance-prediction)
-**Machine learning model to predict academic performance with data-driven insights**
-
-- **Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib, Jupyter Notebook
-- **Methodology:**
-  - **EDA & Cleaning:** Handled missing values, outlier detection, feature scaling
-  - **Feature Engineering:** Engineered 15+ relevant features from raw academic and behavioral data
-  - **Model Development:** Trained multiple algorithms (Linear Regression, Random Forest, Gradient Boosting)
-  - **Evaluation:** Achieved **92% accuracy** on test dataset with precision/recall optimization
-- **Impact:** Identified at-risk students with **20% improvement** in prediction accuracy over baseline models
-- **Deliverables:** Interactive Jupyter notebooks, visualizations, and actionable recommendations
-
-[View Repository →](https://github.com/Nageswararaolingolu/student-performance-prediction)
+[Try Application →](http://localhost:5173/) | [View Repository →](https://github.com/Nageswararaolingolu/hostel-management-system)
 
 ---
 
