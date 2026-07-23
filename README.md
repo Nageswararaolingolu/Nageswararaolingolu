@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Lingolu Nageswararao (Siddu)
+# Hi there! 👋 I'm Lingolu Nageswararao 
 
 <div align="center">
 
