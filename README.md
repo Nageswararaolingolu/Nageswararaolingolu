@@ -11,7 +11,6 @@
 💼 Python Developer Intern @ Vangrove Tech Pvt Ltd (Apr–Jun 2026)
 
 [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
 [![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6B6B?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
@@ -23,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-Passionate **entry-level software engineer** with a strong foundation in **Python development**, **Object-Oriented Programming**, and **full-stack project execution**. Experienced in building modular, maintainable code following SDLC best practices. Proven ability to design and debug complex systems, optimize workflows through automation, and collaborate effectively within agile teams. Driven by a commitment to code quality, testing rigor, and continuous learning.
+Passionate **entry-level software engineer** with a strong foundation in **Python development**, **Object-Oriented Programming**, and **full-stack project execution**. Experienced in building modu[...]
 
 ---
 
@@ -31,7 +30,6 @@ Passionate **entry-level software engineer** with a strong foundation in **Pytho
 
 ### Languages & Paradigms
 - **Primary:** Python (OOP, Modular Design, Performance Optimization)
-- **Secondary:** Java (Core Concepts, Design Patterns)
 - **Scripting & Markup:** SQL, Bash
 
 ### Backend & Databases
@@ -109,7 +107,7 @@ Passionate **entry-level software engineer** with a strong foundation in **Pytho
 
 ## 🤝 Let's Connect!
 
-I'm actively seeking **entry-level software engineering** and **Python developer** opportunities where I can contribute to building scalable, maintainable systems. I'm also open to **open-source collaboration** and **technical networking**.
+I'm actively seeking **entry-level software engineering** and **Python developer** opportunities where I can contribute to building scalable, maintainable systems. I'm also open to **open-source colla[...]
 
 📧 **Email:** [Your Email Here]  
 🔗 **LinkedIn:** [linkedin.com/in/nageswararaolingolu](https://linkedin.com)  
@@ -119,7 +117,7 @@ I'm actively seeking **entry-level software engineering** and **Python developer
 
 <div align="center">
 
-### 💡 *"Clean code is readable code. Readable code is maintainable code. Maintainable code is scalable code."*
+### 💡 *"Clean code is readable code. Readable code is maintainable code. Maintainable code is scalable code."
 
 ⭐ If you find my work interesting, feel free to star my repositories and get in touch!
 
