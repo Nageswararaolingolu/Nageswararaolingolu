@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🚀 Entry-Level Data Analytics & Generative AI Engineer | AI Full-Stack Learner
+### 🚀 Entry-Level Data Analytics & Generative AI and AI Full-Stack Learner
 
 **Building data-driven, production-ready analytics and generative AI solutions with clean code and agile practices**
 
@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-Passionate entry-level Data Analytics and Generative AI engineer and an AI full-stack learner with a strong foundation in data analysis, visualization, and applied AI. Experienced in designing end[...]
+Passionate entry-level Data Analytics and Generative AI engineer and an AI full-stack learner with a strong foundation in data analysis, visualization, and applied AI. Experienced in designing end-to-end data solutions and deploying AI models in production environments. Driven by a commitment to writing clean, maintainable code and continuously learning emerging technologies.
 
 ---
 
