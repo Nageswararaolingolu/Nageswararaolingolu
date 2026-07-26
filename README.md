@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-Passionate entry-level Data Analytics and Generative AI engineer and an AI full-stack learner with a strong foundation in data analysis, visualization, and applied AI. Experienced in designing end-to-end data solutions and deploying AI models in production environments. Driven by a commitment to writing clean, maintainable code and continuously learning emerging technologies.
+Passionate entry-level Data Analytics and Generative AI  and  AI full-stack learner with a strong foundation in data analysis, visualization, and applied AI. Experienced in designing end-to-end data solutions and deploying AI models in production environments. Driven by a commitment to writing clean, maintainable code and continuously learning emerging technologies.
 
 ---
 
