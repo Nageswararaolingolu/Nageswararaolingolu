@@ -89,19 +89,7 @@ Passionate entry-level Data Analytics and Generative AI  and  AI full-stack lear
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nageswararaolingolu&layout=compact&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nageswararaolingolu&show_icons=true&theme=radical)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Nageswararaolingolu&theme=radical)
-
-</div>
-
----
 
 ## 🤝 Let's Connect!
 
