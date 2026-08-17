@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-Passionate entry-level Data Analytics and Generative AI  and  AI full-stack learner with a strong foundation in data analysis, visualization, and applied AI. Experienced in designing end-to-end data solutions and deploying AI models in production environments. Driven by a commitment to writing clean, maintainable code and continuously learning emerging technologies.
+Passionate entry-level Data Analytics and Generative AI  and  AI full-stack learner with a strong foundation in data analysis, visualization, and applied AI. Experienced in designing end-to-end data solutions.
 
 ---
 
@@ -72,7 +72,8 @@ Passionate entry-level Data Analytics and Generative AI  and  AI full-stack lear
 - **Impact:** Reduced manual record management by **40%**, streamlined hostel operations workflow
 - **Code Quality:** Followed SDLC phases, unit tested core modules, documented API thoroughly
 
-[PDA-90-Project →](https://github.com/Nageswararaolingolu/pda-90-project)
+🔗 **Repository:** [PDA-90-Project](https://github.com/Nageswararaolingolu/pda-90-project)  
+🌐 **Live Demo:** [pda-90-project-8vbw.vercel.app](https://pda-90-project-8vbw.vercel.app)
 
 ---
 
